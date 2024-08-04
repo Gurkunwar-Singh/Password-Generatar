@@ -3,7 +3,11 @@ const characters = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O"
 
 let pwd1El=document.getElementById("pwd1-el");
 let pwd2El=document.getElementById("pwd2-el");
+console.log(pwd1El);
+console.log(pwd2El);
 function generate(){
+ 
+console.log(" generate called")
     let first="";
    for(let i=0;i<15;i++){
      let a=Math.floor(Math.random()*characters.length)
