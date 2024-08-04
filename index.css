@@ -1,0 +1,169 @@
+body {
+    margin: 0;
+background: #1C1C1C;
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1253px;
+height: 678px;
+top: -1385px;
+left: 169px;
+padding: 64px 61px 64px 62px;
+gap: 0px;
+opacity: 0px;
+
+}
+#container{
+   width: 550px;
+height: 550px;
+top: 64px;
+left: 62px;
+gap: 0px;
+opacity: 0px;
+background-color: #1F2937;
+border-radius: 5%;
+padding-left: 50px;
+padding-top: 70px;
+
+}
+h1{
+    width: 354px;
+height: 80px;
+top: 115px;
+left: 52px;
+gap: 0px;
+opacity: 0px;
+font-family: Karla;
+font-size: 40px;
+font-weight: 800;
+line-height: 40px;
+letter-spacing: -0.025em;
+text-align: left;
+
+    color: white;
+}
+#area{
+    color: green;
+}
+h3{
+    width: 372px;
+height: 28px;
+top: 205px;
+left: 52px;
+gap: 0px;
+opacity: 0px;
+color: #D5D4D8;
+
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+
+}
+button{
+    width: Hug (191px);
+height: Hug (42px);
+top: 284px;
+left: 52px;
+padding: 9px 17px 9px 15px;
+gap: 12px;
+border-radius: 6px 0px 0px 0px;
+opacity: 0px;
+background: #10B981;
+box-shadow: 0px 1px 2px 0px #0000000D;
+border: none;
+}
+text1{
+    width: 159px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+color: #FFFFFF;
+
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+
+}
+line{
+    width: 446px;
+height: 0px;
+top: 361px;
+left: 52px;
+border: 1px solid #2F3E53
+
+}
+#Line{
+width: 446px;
+height: 0px;
+top: 361px;
+left: 52px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+angle: -0 deg;
+border: 1px solid #2F3E53;
+margin-top: 45px;
+}
+#pwd{
+ display: flex;
+ flex-direction: row;
+ gap:10px  ;
+  margin-top: 45px;
+  
+}
+#first-el{
+    width: 211px;
+    background: #273549;
+
+height: 39px;
+top: 396px;
+left: 52px;
+gap: 0px;
+border-radius: 6px 0px 0px 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 32px;
+text-align: center;
+
+
+}
+#second-el{
+ width: 211px;
+height: 39px;
+top: 396px;
+left: 287px;
+gap: 0px;
+border-radius: 6px 0px 0px 0px;
+opacity: 0px;
+background: #273549;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 32px;
+text-align: center;
+
+
+}
+text{
+    width: 180px;
+height: 32px;
+top: 400px;
+left: 67px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 32px;
+text-align: center;
+color: #55F991;
+
+}
